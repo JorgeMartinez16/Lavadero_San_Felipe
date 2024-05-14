@@ -1,0 +1,177 @@
+clients
+[
+    {
+        "name": "Juan",
+        "lastName": "Perez",
+        "nit": "1234567890",
+        "phoneNumber": 123456789
+    },
+    {
+        "name": "Maria",
+        "lastName": "Rodriguez",
+        "nit": "0987654321",
+        "phoneNumber": 987654321
+    },
+    {
+        "name": "Luisa",
+        "lastName": "Martinez",
+        "nit": "4567891230",
+        "phoneNumber": 456123789
+    },
+    {
+        "name": "Carlos",
+        "lastName": "Sanchez",
+        "nit": "3216549870",
+        "phoneNumber": 987654123
+    },
+    {
+        "name": "Ana",
+        "lastName": "Gomez",
+        "nit": "6543210987",
+        "phoneNumber": 654987321
+    },
+    {
+        "name": "Pedro",
+        "lastName": "Ramirez",
+        "nit": "9871234560",
+        "phoneNumber": 789654123
+    },
+    {
+        "name": "Laura",
+        "lastName": "Fernandez",
+        "nit": "1597532460",
+        "phoneNumber": 321987654
+    },
+    {
+        "name": "Diego",
+        "lastName": "Gonzalez",
+        "nit": "3571597530",
+        "phoneNumber": 147258369
+    },
+    {
+        "name": "Sofia",
+        "lastName": "Lopez",
+        "nit": "8529637410",
+        "phoneNumber": 963852741
+    },
+    {
+        "name": "Gabriel",
+        "lastName": "Herrera",
+        "nit": "2468109750",
+        "phoneNumber": 369258147
+    }
+]
+employees
+[
+    {
+        "name": "Juan",
+        "lastName": "Perez",
+        "phoneNumber": 123456789,
+        "position": "Lavador",
+        "gender": "Male"
+    },
+    {
+        "name": "Carlos",
+        "lastName": "Sanchez",
+        "phoneNumber": 987654123,
+        "position": "Pintor",
+        "gender": "Male"
+    },
+    {
+        "name": "Pedro",
+        "lastName": "Ramirez",
+        "phoneNumber": 789654123,
+        "position": "Latonero",
+        "gender": "Male"
+    },
+    {
+        "name": "David",
+        "lastName": "Lopez",
+        "phoneNumber": 456123789,
+        "position": "Pintor",
+        "gender": "Male"
+    },
+    {
+        "name": "Miguel",
+        "lastName": "Gonzalez",
+        "phoneNumber": 654987321,
+        "position": "Pintor",
+        "gender": "Male"
+    },
+    {
+        "name": "Alejandro",
+        "lastName": "Martinez",
+        "phoneNumber": 789654321,
+        "position": "Lavador",
+        "gender": "Male"
+    },
+    {
+        "name": "Francisco",
+        "lastName": "Garcia",
+        "phoneNumber": 321654987,
+        "position": "Lavador",
+        "gender": "Male"
+    },
+    {
+        "name": "Jorge",
+        "lastName": "Hernandez",
+        "phoneNumber": 159753246,
+        "position": "Lavador",
+        "gender": "Male"
+    }
+]
+
+service
+[
+    {
+        "name": "Lavado exterior",
+        "description": "Lavado completo del exterior del vehículo",
+        "price": 25000
+    },
+    {
+        "name": "Lavado interior básico",
+        "description": "Limpieza básica del interior del vehículo: aspirado, limpieza de superficies y cristales",
+        "price": 30000
+    },
+    {
+        "name": "Lavado interior completo",
+        "description": "Limpieza completa del interior del vehículo: aspirado, limpieza de alfombras, tapicería, paneles y cristales",
+        "price": 50000
+    },
+    {
+        "name": "Encerado",
+        "description": "Aplicación de cera para proteger la pintura del vehículo y darle brillo",
+        "price": 40000
+    },
+    {
+        "name": "Pulido de pintura",
+        "description": "Pulido de la pintura para eliminar imperfecciones y darle un aspecto más brillante",
+        "price": 60000
+    },
+    {
+        "name": "Lavado de motor",
+        "description": "Limpieza del motor para eliminar suciedad y grasa acumulada",
+        "price": 45000
+    },
+    {
+        "name": "Lavado de llantas y rines",
+        "description": "Limpieza profunda de llantas y rines para eliminar suciedad y restos de frenos",
+        "price": 20000
+    },
+    {
+        "name": "Desmanchado de tapicería",
+        "description": "Eliminación de manchas difíciles de la tapicería del vehículo",
+        "price": 35000
+    },
+    {
+        "name": "Lavado de chasis",
+        "description": "Limpieza del chasis para eliminar suciedad acumulada en la parte inferior del vehículo",
+        "price": 30000
+    },
+    {
+        "name": "Desodorización",
+        "description": "Eliminación de olores desagradables del interior del vehículo",
+        "price": 25000
+    }
+]
+
